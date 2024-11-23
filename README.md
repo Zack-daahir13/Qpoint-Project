@@ -43,7 +43,8 @@ Built with:
    cd qpoints  
 Install dependencies:
 
-bash
+```bash
+
 npm install  
 Start the development server:
 
